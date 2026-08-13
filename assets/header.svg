@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#FFE5EC"/>
+<stop offset="100%" stop-color="#FFF3F6"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="1200" height="220" fill="url(#bg)"/>
+<circle cx="90" cy="40" r="70" fill="#FFC0CB" opacity="0.35"/>
+<circle cx="1130" cy="190" r="90" fill="#FF9EB5" opacity="0.25"/>
+<circle cx="1080" cy="30" r="34" fill="#FFB6C1" opacity="0.4"/>
+<circle cx="60" cy="195" r="40" fill="#FFD1DC" opacity="0.45"/>
+<text x="600" y="110" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700" fill="#C2185B" text-anchor="middle">Leen Harfoush</text>
+<path d="M 460 132 Q 600 152 740 132" fill="none" stroke="#FF6F91" stroke-width="3" stroke-linecap="round"/>
+<text x="600" y="172" font-family="Verdana, sans-serif" font-size="18" letter-spacing="1" fill="#8B5A6B" text-anchor="middle">Full-Stack Developer &#183; AI/NLP Research</text>
+</svg>
