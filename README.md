@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SOFT HEADER — gradient strip with a small, quiet name -->
-<img width="100%" src="assets/header.svg" />
+<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB6C1,100:FF9EB5&height=120&section=header&text=Leen%20Harfoush&fontSize=28&fontColor=5C2A3A&fontAlignY=45" />
 
 <!-- TYPING TAGLINE -->
 <a href="#">
@@ -51,11 +51,20 @@ Computer Science student at LAU, building full-stack applications and researchin
 
 ## 🎀 Featured Projects
 
-<img width="100%" src="assets/hivework.svg" /><br/><br/>
-<img width="100%" src="assets/clausio.svg" /><br/><br/>
-<img width="100%" src="assets/rag-scraper.svg" /><br/><br/>
-<img width="100%" src="assets/bingeboard.svg" /><br/><br/>
-<img width="100%" src="assets/buzzmate.svg" />
+<table>
+<tr>
+<td width="50%"><img width="100%" src="assets/hivework.svg" /></td>
+<td width="50%"><img width="100%" src="assets/clausio.svg" /></td>
+</tr>
+<tr>
+<td width="50%"><img width="100%" src="assets/rag-scraper.svg" /></td>
+<td width="50%"><img width="100%" src="assets/bingeboard.svg" /></td>
+</tr>
+<tr>
+<td width="50%"><img width="100%" src="assets/buzzmate.svg" /></td>
+<td width="50%"></td>
+</tr>
+</table>
 
 <br/><br/>
 
